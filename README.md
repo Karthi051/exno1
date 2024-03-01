@@ -69,4 +69,4 @@ df.isnull().sum()
 
 
 # Result
-the data cleaning process has been done sucessfully
+the data cleaning process has been done successfully
